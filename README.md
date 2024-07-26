@@ -4,8 +4,6 @@ Learno gives system notification of formulas which you specify. when you see for
 ## Setup
 run the setup.py and you will be greeted with this screen..
 
-![Learno](https://cdn.discordapp.com/attachments/792703073482440714/872735708148826172/unknown.png)
-
 ## Options available
 * Manual Formula
 * Importing Formulas from txt files
